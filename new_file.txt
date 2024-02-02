@@ -1,0 +1,1 @@
+print("aksaray mi konya mi")
